@@ -1,0 +1,27 @@
+* {
+    background-color: floralwhite;
+    
+}
+.container{
+  
+    margin-right: 100px;
+    padding: 800px;
+    padding-top: 10px;
+}
+
+.container input{
+    border-radius: 30px;
+    size: 100px;
+    font-size: 20px;
+}
+#btnAgregar{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     margin-top: 30px;
+    margin-left: 50%;
+}
+.container h1{
+    padding: auto;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
+}
